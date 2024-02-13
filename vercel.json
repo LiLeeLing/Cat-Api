@@ -5,7 +5,7 @@
     "rewrites": [
         {
             "source": "/(.*)",
-            "destination": "/web/berry"
+            "destination": "/web/berry/public"
         }
     ]
 }
